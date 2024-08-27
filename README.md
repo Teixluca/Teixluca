@@ -1,4 +1,4 @@
-
+![logo](https://github.com/Teixluca/Teixluca/blob/main/senai-logo-3.png)
 
 ## Hi there 👋
 
